@@ -17,7 +17,7 @@
           <el-menu-item index="/product">产品中心</el-menu-item>
           <el-menu-item index="/case">经典案例</el-menu-item>
           <el-menu-item index="/goin">走进科建</el-menu-item>
-          <el-menu-item index="/download">下载APP</el-menu-item>
+<!--          <el-menu-item index="/download">下载APP</el-menu-item>-->
         </el-menu>
       </el-header>
       <el-main>
@@ -47,7 +47,7 @@
             </li>
             <li>
               <p>联系我们</p>
-              <span>邮箱：kejianlml@163.com</span>
+              <span>邮箱：17353919205@163.com</span>
               <span>电话：021-55802368</span>
               <span>地址：上海市杨浦区翔殷路128号12号楼101</span>
             </li>
